@@ -1,0 +1,44 @@
+#bg{
+    background-color: #00405cff;
+}
+.pos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form1{
+    background-color:#ffffffff ;
+    padding: 25px;
+}
+.heading{
+    color: #ffffffff;
+    font-size: 35px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+.label1{
+    color: #d94548ff;
+    text-transform: capitalize;
+    font-size: 15px;
+    font-weight: bold;
+}
+.send-button{
+    padding: 9px 190px 9px 190px ;
+    background-color: #02998cff;
+    border-radius: 25px;
+    border-color: #02998cff;
+    color: #ffffffff;
+    text-transform: capitalize;
+}
+.inputs{
+    /* padding: 0px 110px 0px 110px ; */
+    text-align: left; 
+    line-height: 20px;
+}
+.end-line{
+    text-align: center;
+    color: #ffffffff;
+    text-transform: capitalize;
+    font-size: 14px;
+}
