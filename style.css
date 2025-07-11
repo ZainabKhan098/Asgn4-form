@@ -12,10 +12,10 @@
 }
 .heading{
     color: #ffffffff;
-    font-size: 35px;
+    font-size: 30px;
     text-transform: uppercase;
     text-align: center;
-    font-weight: bold;
+    font-weight:700;
 }
 .label1{
     color: #d94548ff;
@@ -24,17 +24,15 @@
     font-weight: bold;
 }
 .send-button{
-    padding: 9px 190px 9px 190px ;
+    padding: 9px 0px 9px 0px ;
+    width: 100%;
     background-color: #02998cff;
     border-radius: 25px;
-    border-color: #02998cff;
+    border-color:#ffffffff ;
     color: #ffffffff;
-    text-transform: capitalize;
 }
-.inputs{
-    /* padding: 0px 110px 0px 110px ; */
-    text-align: left; 
-    line-height: 20px;
+.inputs{    
+    width: 100%;
 }
 .end-line{
     text-align: center;
