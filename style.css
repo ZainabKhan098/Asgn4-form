@@ -9,6 +9,7 @@
 .form1{
     background-color:#ffffffff ;
     padding: 25px;
+   
 }
 .heading{
     color: #ffffffff;
@@ -31,12 +32,13 @@
     border-color:#ffffffff ;
     color: #ffffffff;
 }
-.inputs{    
-    width: 100%;
-}
+
 .end-line{
     text-align: center;
     color: #ffffffff;
     text-transform: capitalize;
     font-size: 14px;
+}
+.inputs{    
+    width: 100%;
 }
